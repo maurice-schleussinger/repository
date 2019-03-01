@@ -1,5 +1,5 @@
 {
-  "name": "Spotify Connect",
+  "name": "Spotify Connect - 2",
   "version": "0.4.1",
   "slug": "spotify",
   "description": "Play Spotify music on your Home Assistant device",
@@ -37,5 +37,5 @@
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
   },
-  "image": "hassioaddons/spotify"
+  "image": "maurice/spotify2"
 }
