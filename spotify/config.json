@@ -37,5 +37,5 @@
   "environment": {
     "LOG_FORMAT": "{LEVEL}: {MESSAGE}"
   },
-  "image": "maurice/spotify2"
+  "image": "hassioaddons/spotify"
 }
